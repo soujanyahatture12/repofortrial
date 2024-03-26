@@ -8,3 +8,5 @@ jobs:
         run: echo "hello world Ubuntu"
       - name: Print bye
         run: echo "Bye ubu"
+      - name: See you again
+        run: echo "okay"
